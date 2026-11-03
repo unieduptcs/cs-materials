@@ -75,6 +75,14 @@
       "group": "常用圖",
       "path": "assets/各科常規學費.png"
     },
+   {
+      "id": "regular-discount",
+      "title": "常規優惠",
+      "type": "image",
+      "category": "常規優惠",
+      "group": "常用圖",
+      "path": "assets/常規報讀優惠.png"
+    },
     {
       "id": "payment-guide",
       "title": "連結付款教學",
