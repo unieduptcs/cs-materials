@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CS 素材助手｜安裝及下載</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: #f3f6fc;
+      color: #25334b;
+      font-family: system-ui, -apple-system, "Microsoft JhengHei", sans-serif;
+      line-height: 1.7;
+    }
+    main { max-width: 780px; margin: 48px auto; padding: 0 20px; }
+    .card {
+      background: white;
+      border: 1px solid #e5eaf3;
+      border-radius: 20px;
+      padding: 36px;
+      box-shadow: 0 8px 32px #24385a08;
+    }
+    .badge {
+      display: inline-block;
+      background: #edf2ff;
+      color: #315bd5;
+      border-radius: 20px;
+      padding: 4px 12px;
+      font-size: 13px;
+    }
+    h1 { font-size: 28px; margin: 14px 0 8px; }
+    h2 { font-size: 19px; margin-top: 28px; }
+    p, li { font-size: 15px; }
+    .muted { color: #65738a; }
+    .download {
+      display: inline-block;
+      padding: 13px 24px;
+      margin-top: 10px;
+      background: #365fdf;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      font-weight: 700;
+    }
+    .download:hover { background: #294dc0; }
+    .download:focus-visible { outline: 3px solid #92adff; outline-offset: 4px; }
+    code {
+      background: #edf2fa;
+      padding: 2px 6px;
+      border-radius: 4px;
+      overflow-wrap: anywhere;
+    }
+    ol, ul { padding-left: 24px; }
+    li { margin-bottom: 7px; }
+    .notice {
+      background: #fff8e8;
+      border: 1px solid #f0dfae;
+      border-radius: 10px;
+      padding: 14px 16px;
+      font-size: 14px;
+    }
+    .privacy {
+      margin-top: 26px;
+      border-top: 1px solid #e8edf5;
+      padding-top: 18px;
+      font-size: 13px;
+      color: #65738a;
+    }
+    footer { text-align: center; color: #76839a; font-size: 12px; padding: 18px; }
+    @media (max-width: 520px) {
+      main { margin: 20px auto; padding: 0 12px; }
+      .card { padding: 24px 20px; }
+      h1 { font-size: 24px; }
+      .download { display: block; text-align: center; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="card">
+      <span class="badge">Chrome 擴充功能 · CS 同事手動安裝</span>
+      <h1>CS 素材助手</h1>
+      <p class="muted">下載安裝包，快速查找文字 Template、圖片及 PDF 教材。</p>
+
+      <!-- 上載新版 ZIP 後，可在此加入實際版本號及更新日期。 -->
+      <a class="download" href="./downloads/cs-materials-extension.zip" download>
+        下載插件 ZIP
+      </a>
+      <p class="muted">下載後請先解壓縮；ZIP 並非可直接安裝的 Chrome 商店套件。</p>
+
+      <h2>主要用途</h2>
+      <ul>
+        <li>使用獨立小視窗查找及使用 CS 素材。</li>
+        <li>文字 Template 儲存在自己的 Chrome，可匯出／匯入備份。</li>
+        <li>圖片及 PDF 由管理員集中維護。</li>
+      </ul>
+      <p class="muted">實際功能以下載的插件版本為準。</p>
+
+      <h2>首次安裝</h2>
+      <ol>
+        <li>下載 ZIP，解壓縮到一個固定資料夾。</li>
+        <li>在 Chrome 網址列輸入 <code>chrome://extensions</code>。</li>
+        <li>開啟右上角「開發人員模式」。</li>
+        <li>按「載入未封裝項目」，選擇直接包含 <code>manifest.json</code> 的資料夾。</li>
+        <li>在 Chrome 拼圖選單釘選「CS 素材助手」，點擊圖示開啟。</li>
+      </ol>
+
+      <h2>現有同事更新插件</h2>
+      <ol>
+        <li><strong>先匯出文字 Template 備份。</strong></li>
+        <li>關閉插件小視窗，再下載及解壓新版 ZIP。</li>
+        <li>將新版插件檔案覆蓋到原本安裝的固定資料夾，保留原有資料夾位置。</li>
+        <li>到 <code>chrome://extensions</code>，按該插件的「重新載入」。</li>
+        <li>重新開啟插件，按「重新整理教材」。</li>
+      </ol>
+
+      <div class="notice">
+        <strong>更新提醒：</strong>一般更新不需要移除插件。
+        移除插件可能清除本機資料。只有教材更新時，通常只需重新整理教材，不必下載新安裝包。
+        如公司政策禁止開發人員模式或手動安裝，請先向 IT 確認。
+      </div>
+
+      <h2>圖片及 PDF 使用</h2>
+      <p>PDF 建議下載後，從檔案總管拖曳到 WhatsApp Web／Woztell。
+        圖片複製及其他操作以插件版本和聊天平台支援情況為準；插件不會自動發送訊息。</p>
+
+      <div class="privacy">
+        本頁及下載檔案為公開資源，持有網址的人均可存取，不設登入限制。
+        請勿在安裝包或教材中放入家長／學生個人資料、密碼、API 金鑰或內部機密。
+        本頁不需要讀取聊天內容，也不會收集個人文字 Template。
+      </div>
+    </section>
+    <footer>CS 素材助手 · 安裝包由管理員維護</footer>
+  </main>
+</body>
+</html>
