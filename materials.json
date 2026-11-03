@@ -11,11 +11,19 @@
     },
     {
       "id": "engage-plus-guide",
-      "title": "ENGAGE PLUS APP 錄影筆記查看教學",
+      "title": "EP APP 錄影筆記查看教學",
       "type": "image",
       "category": "APP 教學",
       "group": "常用圖",
       "path": "assets/ENGAGE PLUS APP 錄影筆記查看教學.jpg"
+    },   
+    {
+      "id": "engage-plus-qrcode",
+      "title": "EP QR Code點名教學",
+      "type": "image",
+      "category": "點名教學",
+      "group": "常用圖",
+      "path": "EP QR Code點名教學.png"
     },
     {
       "id": "s3-ai-stream-a",
@@ -281,6 +289,14 @@
       "group": "新查詢進度圖",
       "subject": "物理",
       "path": "assets/S6 Phy.jpeg"
+    },
+        {
+      "id": "Rescue Discount",
+      "title": "急救追趕優惠",
+      "type": "image",
+      "category": "優惠",
+      "group": "限時活動",
+      "path": "急救追趕優惠.png"
     }
   ]
 }
