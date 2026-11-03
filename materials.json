@@ -23,7 +23,7 @@
       "type": "image",
       "category": "點名教學",
       "group": "常用圖",
-      "path": "EP QR Code點名教學.png"
+      "path": "assets/EP QR Code點名教學.png"
     },
     {
       "id": "s3-ai-stream-a",
@@ -296,7 +296,7 @@
       "type": "image",
       "category": "優惠",
       "group": "限時活動",
-      "path": "急救追趕優惠.png"
+      "path": "assets/急救追趕優惠.png"
     }
   ]
 }
