@@ -74,6 +74,213 @@
       "category": "付款教學",
       "group": "常用圖",
       "path": "assets/連結付款教學.pdf"
+    },
+    {
+      "id": "inquiry-maths-p5",
+      "title": "P.5｜高小數學",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "數學",
+      "path": "assets/P.5_高小數學.jpg"
+    },
+    {
+      "id": "inquiry-maths-p6",
+      "title": "P.6｜高小數學",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "數學",
+      "path": "assets/P.6_高小數學.jpg"
+    },
+    {
+      "id": "inquiry-maths-s1",
+      "title": "S1｜數學",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "數學",
+      "path": "assets/S1.png"
+    },
+    {
+      "id": "inquiry-maths-s2",
+      "title": "S2｜數學",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "數學",
+      "path": "assets/S2.png"
+    },
+    {
+      "id": "inquiry-maths-s3",
+      "title": "S3｜數學",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "數學",
+      "path": "assets/S3.png"
+    },
+    {
+      "id": "inquiry-maths-s4-s6",
+      "title": "S4–S6｜數學",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "數學",
+      "path": "assets/S4-6.png"
+    },
+    {
+      "id": "inquiry-science-s1",
+      "title": "S1｜綜合科學",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "科學/生物",
+      "path": "assets/S1 IS.jpeg"
+    },
+    {
+      "id": "inquiry-science-s2",
+      "title": "S2｜綜合科學",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "科學/生物",
+      "path": "assets/S2 IS.jpeg"
+    },
+    {
+      "id": "inquiry-biology-s3",
+      "title": "S3｜生物",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "科學/生物",
+      "path": "assets/S3 Bio_New.jpg"
+    },
+    {
+      "id": "inquiry-biology-s4",
+      "title": "S4｜生物",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "科學/生物",
+      "path": "assets/S4 Bio_250911updated.jpg"
+    },
+    {
+      "id": "inquiry-biology-s5",
+      "title": "S5｜生物",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "科學/生物",
+      "path": "assets/S5 Bio.jpeg"
+    },
+    {
+      "id": "inquiry-chemistry-s3-page1",
+      "title": "S3｜化學｜第1頁",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "化學",
+      "path": "assets/S3 Chem Page 1.jpg"
+    },
+    {
+      "id": "inquiry-chemistry-s3-page2",
+      "title": "S3｜化學｜第2頁",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "化學",
+      "path": "assets/S3 Chem Page 2.jpg"
+    },
+    {
+      "id": "inquiry-chemistry-s4-page1",
+      "title": "S4｜化學｜第1頁",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "化學",
+      "path": "assets/S4 Chem Page 1.jpg"
+    },
+    {
+      "id": "inquiry-chemistry-s4-page2",
+      "title": "S4｜化學｜第2頁",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "化學",
+      "path": "assets/S4 Chem Page 2.jpg"
+    },
+    {
+      "id": "inquiry-chemistry-s5-page1",
+      "title": "S5｜化學｜第1頁",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "化學",
+      "path": "assets/S5 Chem Page 1.jpg"
+    },
+    {
+      "id": "inquiry-chemistry-s5-page2",
+      "title": "S5｜化學｜第2頁",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "化學",
+      "path": "assets/S5 Chem Page 2.jpg"
+    },
+    {
+      "id": "inquiry-chemistry-s6-page1",
+      "title": "S6｜化學｜第1頁",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "化學",
+      "path": "assets/S6 Chem Page 1.jpg"
+    },
+    {
+      "id": "inquiry-chemistry-s6-page2",
+      "title": "S6｜化學｜第2頁",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "化學",
+      "path": "assets/S6 Chem Page 2.jpg"
+    },
+    {
+      "id": "inquiry-physics-s3",
+      "title": "S3｜物理",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "物理",
+      "path": "assets/S3 Phy.jpeg"
+    },
+    {
+      "id": "inquiry-physics-s4",
+      "title": "S4｜物理",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "物理",
+      "path": "assets/S4 Phy.jpeg"
+    },
+    {
+      "id": "inquiry-physics-s5",
+      "title": "S5｜物理",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "物理",
+      "path": "assets/S5 Phy.jpeg"
+    },
+    {
+      "id": "inquiry-physics-s6",
+      "title": "S6｜物理",
+      "type": "image",
+      "category": "課程資料",
+      "group": "新查詢進度圖",
+      "subject": "物理",
+      "path": "assets/S6 Phy.jpeg"
     }
   ]
 }
